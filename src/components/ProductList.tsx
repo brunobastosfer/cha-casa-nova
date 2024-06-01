@@ -7,18 +7,18 @@ const ProductList: React.FC = () => {
       <div className="container mx-auto flex flex-wrap justify-center">
         <div className="product-card bg-gray-50 p-4 m-2 rounded shadow-md">
           <h4 className="text-xl text-gray-500">Produto 1</h4>
-          <p className="text-teal-300 mt-2 mb-4">$49.99</p>
-          <a href="#" className="bg-teal-300 text-white py-2 px-4 rounded">Comprar</a>
+          <p className="text-teal-500 mt-2 mb-4">$69.99</p>
+          <a href="#" className="bg-teal-800 text-white py-2 px-4 rounded">Comprar</a>
         </div>
         <div className="product-card bg-gray-50 p-4 m-2 rounded shadow-md">
           <h4 className="text-xl text-gray-500">Produto 2</h4>
-          <p className="text-teal-300 mt-2 mb-4">$59.99</p>
-          <a href="#" className="bg-teal-300 text-white py-2 px-4 rounded">Comprar</a>
+          <p className="text-teal-500 mt-2 mb-4">$69.99</p>
+          <a href="#" className="bg-teal-800 text-white py-2 px-4 rounded">Comprar</a>
         </div>
         <div className="product-card bg-gray-50 p-4 m-2 rounded shadow-md">
           <h4 className="text-xl text-gray-500">Produto 3</h4>
-          <p className="text-teal-300 mt-2 mb-4">$69.99</p>
-          <a href="#" className="bg-teal-300 text-white py-2 px-4 rounded">Comprar</a>
+          <p className="text-teal-500 mt-2 mb-4">$69.99</p>
+          <a href="#" className="bg-teal-800 text-white py-2 px-4 rounded">Comprar</a>
         </div>
       </div>
     </section>
